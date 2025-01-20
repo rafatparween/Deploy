@@ -66,7 +66,7 @@ const ComputerSetupPage = () => {
                   'Troubleshoot or setup one active email account',
                   'Configure account settings and features',
                   'Demonstrate webmail functionality',
-                  `Depending on the nature of your request we may be able to offer instant support through HelloTech Now! online assistance. An agent will create a secure connection to your computer and troubleshoot the issue right before your eyes.`,
+                  `Depending on the nature of your request we may be able to offer instant support through Micro Hub Care Now! online assistance. An agent will create a secure connection to your computer and troubleshoot the issue right before your eyes.`,
                 ].map((text, index) => (
                   <p
                     key={index}

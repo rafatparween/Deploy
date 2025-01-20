@@ -78,7 +78,7 @@ const ComputerService = () => {
         >
           <li className="text-center bg-white bg-opacity-75 p-4 rounded-lg">
             <p className="mb-4">
-              Get 24/7 unlimited computer support with HelloTech Home
+              Get 24/7 unlimited computer support with Micro Hub Care Home
             </p>
             <Link to="/membership">
               <button className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-[#0C71C3]">

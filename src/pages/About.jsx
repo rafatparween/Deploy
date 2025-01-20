@@ -8,7 +8,7 @@ const content = [
     title: 'Who We Are',
     icon: faInfoCircle,
     content:
-      'At Hewlett Hub Solutions ,we are your trusted specialists in resolving printer issues across all brands and models. With a strong focus on restoring your printers to full functionality, we ensure that your devices are up and running smoothly, minimizing downtime and frustration. Additionally, we offer a wide range of tech services designed to meet your every need.',
+      'At Micro Hub Care, we are your trusted specialists in resolving printer issues across all brands and models. With a strong focus on restoring your printers to full functionality, we ensure that your devices are up and running smoothly, minimizing downtime and frustration. Additionally, we offer a wide range of tech services designed to meet your every need.',
   },
   {
     id: 3,
@@ -36,14 +36,14 @@ const content = [
     title: 'Our Commitment',
     icon: faHandshake,
     content:
-      'At Hewlett Hub Solutions, we are committed to providing exceptional service and support. We believe in building long-term relationships with our clients by offering dependable solutions and ensuring that your technology works seamlessly. Our team of experts is dedicated to your success, working tirelessly to resolve any tech issues you may encounter.',
+      'At Micro Hub Care, we are committed to providing exceptional service and support. We believe in building long-term relationships with our clients by offering dependable solutions and ensuring that your technology works seamlessly. Our team of experts is dedicated to your success, working tirelessly to resolve any tech issues you may encounter.',
   },
   {
     id: 7,
     title: 'Thank You',
     icon: faSmile,
     content:
-      'Thank you for choosing Hewlett Hub Solutions as your trusted partner for all your tech needs. We appreciate the opportunity to serve you and are committed to ensuring your satisfaction with our services. Your trust in us drives our dedication to delivering reliable, efficient, and high-quality solutions. We look forward to continuing to support you and helping you navigate your tech challenges with ease.',
+      'Thank you for choosing Micro Hub Care as your trusted partner for all your tech needs. We appreciate the opportunity to serve you and are committed to ensuring your satisfaction with our services. Your trust in us drives our dedication to delivering reliable, efficient, and high-quality solutions. We look forward to continuing to support you and helping you navigate your tech challenges with ease.',
   },
 ];
 
@@ -52,7 +52,7 @@ const About = () => {
     <div className="bg-gradient-to-r from-blue-100 to-blue-200 py-10">
       <div className="container mx-auto px-4 mt-20 bg-white shadow-lg p-8 rounded-lg">
         <h1 className="text-[#0C71C3] text-4xl font-extrabold text-center mb-10">
-          Welcome to Hewlett Hub Solutions
+          Welcome to Micro Hub Care
         </h1>
         <section className="grid grid-cols-1 md:grid-cols-2 gap-10">
           {content.map((section) => (
