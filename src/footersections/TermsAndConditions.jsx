@@ -35,10 +35,10 @@ export default TermsAndConditions;
 
 const termsAndConditionsContent = [
   {
-    sectionTitle: 'Welcome to Micro Hub Care!',
+    sectionTitle: 'Welcome to Hewlett Hub solutions!',
     content: [
-      'These terms and conditions outline the rules and regulations for the use of Micro Hub Care\'s Website, located at https://microhubcare.com/.',
-      'By accessing this website we assume you accept these terms and conditions. Do not continue to use Micro Hub Care if you do not agree to take all of the terms and conditions stated on this page.',
+      'These terms and conditions outline the rules and regulations for the use of Hewlett Hub solutions ’ Website, located at https://hewletthubsolutions.com/.',
+      'By accessing this website we assume you accept these terms and conditions. Do not continue to use Hewlett Hub solutions if you do not agree to take all of the terms and conditions stated on this page.',
     ],
   },
   {
@@ -50,33 +50,33 @@ const termsAndConditionsContent = [
   {
     sectionTitle: 'Cookies',
     content: [
-      'We employ the use of cookies. By accessing Micro Hub Care, you agreed to use cookies in agreement with the Micro Hub Care Privacy Policy.',
+      'We employ the use of cookies. By accessing Hewlett Hub solutions, you agreed to use cookies in agreement with the Hewlett Hub solutions Privacy Policy.',
       'Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.',
     ],
   },
   {
     sectionTitle: 'License',
     content: [
-      'Unless otherwise stated, Micro Hub Care and/or its licensors own the intellectual property rights for all material on Micro Hub Care LLC. All intellectual property rights are reserved. You may access this from Micro Hub Care LLC for your own personal use subjected to restrictions set in these terms and conditions.',
+      'Unless otherwise stated, Hewlett Hub solutions and/or its licensors own the intellectual property rights for all material on Hewlett Hub solutions LLC. All intellectual property rights are reserved. You may access this from Hewlett Hub solutions LLC for your own personal use subjected to restrictions set in these terms and conditions.',
       'You must not:',
-      'Republish material from Micro Hub Care',
-      'Sell, rent or sub-license material from Micro Hub Care',
-      'Reproduce, duplicate or copy material from Micro Hub Care',
-      'Redistribute content from Micro Hub Care',
+      'Republish material from Hewlett Hub solutions ',
+      'Sell, rent or sub-license material from Hewlett Hub solutions ',
+      'Reproduce, duplicate or copy material from Hewlett Hub solutions ',
+      'Redistribute content from Hewlett Hub solutions ',
       'This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Free Terms and Conditions Generator.',
     ],
   },
   {
     sectionTitle: 'Comments',
     content: [
-      'Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Micro Hub Care LLC does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Micro Hub Care, its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Micro Hub Care LLC shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.',
-      'Micro Hub Care reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.',
+      'Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Hewlett Hub solutions LLC does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Hewlett Hub solutions , its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Hewlett Hub solutions LLC shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.',
+      'Hewlett Hub solutions reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.',
       'You warrant and represent that:',
       'You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;',
       'The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;',
       'The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy',
       'The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.',
-      'You hereby grant Micro Hub Care a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.',
+      'You hereby grant Hewlett Hub solutions a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.',
     ],
   },
   {
@@ -90,7 +90,7 @@ const termsAndConditionsContent = [
           'Search engines;',
           'News organizations;',
           'Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and',
-          'System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Website.',
+          'System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.',
           'These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.',
         ],
       },
@@ -105,14 +105,14 @@ const termsAndConditionsContent = [
           'internet portals;',
           'accounting, law and consulting firms; and',
           'educational institutions and trade associations.',
-          'We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Micro Hub Care LLC; and (d) the link is in the context of general resource information.',
+          'We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence ofHewlett Hub solutions LLC; and (d) the link is in the context of general resource information.',
           'These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.',
-          'If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Micro Hub Care LLC. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.',
+          'If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Hewlett Hub solutions LLC. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.',
           'Approved organizations may hyperlink to our Website as follows:',
           'By use of our corporate name; or',
           'By use of the uniform resource locator being linked to; or',
           'By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.',
-          'No use of Micro Hub Care logo or other artwork will be allowed for linking absent a trademark license agreement.',
+          'No use of Hewlett Hub solutions logo or other artwork will be allowed for linking absent a trademark license agreement.',
         ],
       },
     ],
